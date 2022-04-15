@@ -1,38 +1,99 @@
-.App {
-  text-align: center;
+.Body{
+  background-color: rgb(235, 232, 232);
+  width: 100%;
+  height: 1280px;
+}
+.Body1{
+  background-color: rgb(235, 232, 232);
+  width: 1920px;
+  height: 1000px;
+}
+.Body2{
+  background-color: rgb(235, 232, 232);
+  width: 1920px;
+  height: 600px;
+}
+.Header{
+  width: 1920px;
+  background-color: white;
+  height: 70px;
+
+}
+.Logo{
+  position: absolute;
+  background-image: url(C:\React\my-app\src\123.png);
+  background-repeat: no-repeat;
+  left: 300px;
+  top: 15px;
+  width: 141px;
+  height: 40px;
+} 
+.Logo1{
+  position: absolute;
+  left: 800px;
+  top: 20px;
+  font-size: large;
+  color: rgb(151, 151, 149);
+  cursor: pointer;
+}
+.Logo2{
+  position: absolute;
+  left: 950px;
+  top: 20px;
+  font-size: large;
+  color: rgb(151, 151, 149);
+  cursor: pointer;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Logo3{
+position: absolute;
+left: 1100px;
+top: 20px;
+font-size: large;
+color: rgb(151, 151, 149);
+cursor: pointer;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.BodyLogo{
+  position: absolute;
+  width: 1920px;
+  height: 400px;
+  background-color: rgb(224, 224, 224);
+  top: 70px;
 }
+.BodyLogo1{
+  position: absolute;
+  background-image: url(C:\React\my-app\src\main_logo.svg);
+  background-repeat: no-repeat;
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  left: 310px;
+  top: 100px;
+  width: 760px;
+  height: 160px;
+  cursor: pointer;
 }
-
-.App-link {
-  color: #61dafb;
+.BodyLogo2{
+  position: relative;
+  background-image: url(C:\React\my-app\src\222.png);
+  background-repeat: no-repeat;
+  left: 1300px;
+  width: 500px;
+  height: 400px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.main{
+  position: relative;
+  background-image: url(C:\React\my-app\src\main.PNG);
+  background-repeat: no-repeat;
+  top: -900px;
+  width: 1920px;
+  height: 1000px;
+}
+.Footer{
+  position: relative;
+  width: 1920px;
+  background-color: rgb(235, 232, 232);
+  height: 600px;
+  top: -1200px;
+  background-image: url(C:\React\my-app\src\Foot.PNG);
+  
 }
