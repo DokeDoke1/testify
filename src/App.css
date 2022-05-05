@@ -122,3 +122,12 @@ top:650px
   left: 310px;
 
 } */
+
+.TOPEMPLS{
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 350px;
+  background-color: darkkhaki;
+
+}
