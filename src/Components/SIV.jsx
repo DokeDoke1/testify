@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React, {Component} from 'react'
 
-export default function Animal(){
+export default function EMPLS(){
   const EMPLS =
   [
   {id: 0, name: "____________________________ЛУЧШИЕ СОТРУДНИКИ ЗА ИСТОРИЮ ЭТОГО БАНКА____________________________", size: ""},
