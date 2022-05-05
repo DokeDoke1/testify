@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/testify/static/css/main.92f0732e.css",
+    "main.js": "/testify/static/js/main.b9756c42.js",
+    "static/js/787.28cb0dcd.chunk.js": "/testify/static/js/787.28cb0dcd.chunk.js",
+    "static/media/222.png": "/testify/static/media/222.1c67ccf43fc952b6315f.png",
+    "static/media/gifts-2x.png": "/testify/static/media/gifts-2x.b16358835cf82499933d.png",
+    "static/media/media-2x.png": "/testify/static/media/media-2x.07f1d6e08bfd2c19926d.png",
+    "static/media/apple-2x.png": "/testify/static/media/apple-2x.62cdbf26bf58cece1a2f.png",
+    "static/media/sport-2x.png": "/testify/static/media/sport-2x.3b0ac7f70df6f42fd5d6.png",
+    "static/media/clothes-2x.png": "/testify/static/media/clothes-2x.c4459867a1ea6fa20531.png",
+    "static/media/beauty-2x.png": "/testify/static/media/beauty-2x.2d1baa8fdcd63a57218c.png",
+    "static/media/iphone-2x.png": "/testify/static/media/iphone-2x.6c8d33bbbfea820d4fad.png",
+    "static/media/decorations-2x.png": "/testify/static/media/decorations-2x.28b983c9a7aea20bcc52.png",
+    "static/media/pets-2x.png": "/testify/static/media/pets-2x.d1ce4659280ff7891194.png",
+    "static/media/shoes-2x.png": "/testify/static/media/shoes-2x.94ec9cce4ef7dffda174.png",
+    "static/media/main_logo.svg": "/testify/static/media/main_logo.e03aa749bcaaa07c7f8d.svg",
+    "static/media/123.png": "/testify/static/media/123.6315ceb2a7c36caaa5be.png",
+    "index.html": "/testify/index.html",
+    "main.92f0732e.css.map": "/testify/static/css/main.92f0732e.css.map",
+    "main.b9756c42.js.map": "/testify/static/js/main.b9756c42.js.map",
+    "787.28cb0dcd.chunk.js.map": "/testify/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92f0732e.css",
+    "static/js/main.b9756c42.js"
+  ]
+}
