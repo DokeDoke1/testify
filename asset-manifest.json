@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/testify/static/css/main.92f0732e.css",
-    "main.js": "/testify/static/js/main.b9756c42.js",
+    "main.css": "/testify/static/css/main.7b06ae3d.css",
+    "main.js": "/testify/static/js/main.b86a89f9.js",
     "static/js/787.28cb0dcd.chunk.js": "/testify/static/js/787.28cb0dcd.chunk.js",
     "static/media/222.png": "/testify/static/media/222.1c67ccf43fc952b6315f.png",
     "static/media/gifts-2x.png": "/testify/static/media/gifts-2x.b16358835cf82499933d.png",
@@ -17,12 +17,12 @@
     "static/media/main_logo.svg": "/testify/static/media/main_logo.e03aa749bcaaa07c7f8d.svg",
     "static/media/123.png": "/testify/static/media/123.6315ceb2a7c36caaa5be.png",
     "index.html": "/testify/index.html",
-    "main.92f0732e.css.map": "/testify/static/css/main.92f0732e.css.map",
-    "main.b9756c42.js.map": "/testify/static/js/main.b9756c42.js.map",
+    "main.7b06ae3d.css.map": "/testify/static/css/main.7b06ae3d.css.map",
+    "main.b86a89f9.js.map": "/testify/static/js/main.b86a89f9.js.map",
     "787.28cb0dcd.chunk.js.map": "/testify/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92f0732e.css",
-    "static/js/main.b9756c42.js"
+    "static/css/main.7b06ae3d.css",
+    "static/js/main.b86a89f9.js"
   ]
 }
